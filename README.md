@@ -21,10 +21,10 @@ Various machine learning models were tested, including Naive Bayes and Logistic 
 The models were evaluated using metrics such as accuracy, precision, recall, and F1-score to assess their performance in distinguishing between spam and ham emails.
 
 #### Tools and Technologies:
-Python: The programming language used for data analysis and modeling.
-Scikit-learn: Machine learning library used to build and evaluate the classification models.
-Natural Language Toolkit (nltk): Used for text preprocessing tasks like tokenization and stopword removal.
-Pandas & NumPy: Libraries for handling data and numerical computations.
-Matplotlib & Seaborn: Used for visualizing the data and model performance.
+1. Python: The programming language used for data analysis and modeling.
+2. Scikit-learn: Machine learning library used to build and evaluate the classification models.
+3. Natural Language Toolkit (nltk): Used for text preprocessing tasks like tokenization and stopword removal.
+4. Pandas & NumPy: Libraries for handling data and numerical computations.
+5. Matplotlib & Seaborn: Used for visualizing the data and model performance.
 
 
