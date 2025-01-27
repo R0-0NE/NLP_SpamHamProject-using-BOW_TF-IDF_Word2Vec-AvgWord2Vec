@@ -1,5 +1,4 @@
 # Spam vs Ham Email Classification
-
 ## Project Overview:
 The Spam vs. Ham Classification project is a machine learning application designed to classify email messages as either "spam" (unwanted or fraudulent) or "ham" (legitimate). The goal of the project is to build a predictive model that accurately distinguishes between spam and ham emails using natural language processing (NLP) techniques and supervised machine learning algorithms.
 
